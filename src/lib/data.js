@@ -222,6 +222,27 @@ export const projects = [
   },
 
 ];
+export const education = [
+  {
+    degree: "B.E. Computer Engineering",
+    institute: "K.K. Wagh Institute of Engineering Education & Research, Nashik",
+    period: "2023 — 2027",
+    result: "CGPA: 8.68 / 10",
+  },
+  {
+    degree: "HSC (12th) — Science",
+    institute: "Nashik, Maharashtra",
+    period: "Passed 2023",
+    result: "83% · MHT-CET Percentile: 96.12",
+  },
+  {
+    degree: "SSC (10th)",
+    institute: "Nashik, Maharashtra",
+    period: "Passed 2021",
+    result: "91%",
+  },
+];
+
 export const achievements = [
   { title: "2nd Position — Campus to Corporate 4.0", note: "Earned a competitive internship opportunity", type: "award" },
   { title: "5th Position — AI Innovation & Sprint Competition", note: "Built AEIC autonomous workflow platform", type: "award" },
